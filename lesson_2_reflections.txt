@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+when we initialise a directory we create our first commit. which is like saving our work which will be helpfull to us in future when we want to see our older versions of project and the changes we did to achieve our final form.
