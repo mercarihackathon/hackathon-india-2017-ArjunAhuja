@@ -9,3 +9,5 @@ How can you use the commands git log and git diff to view the history of files?
 first of all commands git log is used to all the changes in the repository by taking the commit id of the desired commit and git diff is used to get the total no. of changes made in that commit and privous coomit
 How might using version control make you more confident to make changes that could break something?
 we could easily go back to a previous commit by using git checkout and check if the bug existed at that point this will make us more confident in improving the bug and writting code.
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to do android dev. and git was a prerequesite for this course that's what i am going to use it for.
