@@ -13,3 +13,6 @@ diagrams help us visualise how to reach a particular commit and if that commit l
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 the result is a new commmit with two parents.it is helpful to us to represent it using the diagram otherwise we may lose our branch.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
