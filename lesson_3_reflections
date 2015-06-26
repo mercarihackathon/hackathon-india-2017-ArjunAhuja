@@ -17,4 +17,6 @@ cloning in the other way extracts the projects doirectly from the person
 and it will not be visible on our homepage untill we add it.otherwise same as forking
 branching helps us differentiate betwwn our real work and experimental work.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+with this we can keep our file up to date by merging and be sure to keep that 
