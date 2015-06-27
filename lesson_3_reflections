@@ -20,3 +20,7 @@ branching helps us differentiate betwwn our real work and experimental work.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 with this we can keep our file up to date by merging and be sure to keep that 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+i think it would be harder as the code length incereases as it would take a lot of time to merge files /code.
